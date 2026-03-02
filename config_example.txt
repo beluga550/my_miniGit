@@ -1,0 +1,11 @@
+# 文件夹同步配置文件
+# 格式: key=value
+
+# 源文件夹路径（要同步的文件夹）
+source=C:\Users\YourName\Documents\MyFolder
+
+# 目标文件夹路径（U盘路径）
+target=E:\Backup
+
+# 是否删除目标中多余的文件 (true/false)
+delete_extra=false
